@@ -1,0 +1,39 @@
+ 
+1, Ikke enig
+2, Ikke helt ening
+3, Hverken enig eller uenig
+4, Litt enig
+5, Helt enig
+
+
+Valgomat Spørsmål:
+
+1. Synes du at Norge bør fase ut olje- og gassproduksjon innen 2030?
+(MDG: 5 — Helt enig)
+
+2. Synes du at private biler bør få begrenset tilgang i bysentra for å redusere utslipp?
+(MDG: 4 — Litt enig)
+
+3. Synes du at landbrukets bruk av kunstgjødsel bør økes for å sikre matproduksjon?
+(MDG: 2 — Ikke helt enig)
+
+4. Synes du at det bør bygges flere nye motorveier for å bedre fremkommeligheten?
+(MDG: 1 — Ikke enig)
+
+5. Synes du at naturreservater bør utvides, selv om det begrenser utbyggingsmuligheter?
+(MDG: 5 — Helt enig)
+
+6. Synes du at elektrifisering av flytrafikken bør prioriteres?
+(MDG: 4 — Litt enig)
+
+7. Synes du at det bør tillates mer utvinning av skog for økonomisk vekst?
+(MDG: 2 — Ikke helt enig)
+
+8. Synes du at flere bensinstasjoner bør tilby biodrivstoff?
+(MDG: 3 — Hverken enig eller uenig)
+
+9. Synes du at det bør investeres mer i forskning på geoengineering som klimatiltak?
+(MDG: 2 — Ikke helt enig)
+
+10. Synes du at Norge skal prioritere import av billig energi fra utlandet, selv om det kan øke klimautslipp?
+(MDG: 1 — Ikke enig)
