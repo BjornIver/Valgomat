@@ -1,1 +1,40 @@
 
+    .tittel{
+        text-align: center;
+    }
+
+    h2{
+        text-align: center;
+    }
+
+    h3{
+        text-align: center;
+    }
+
+    p{
+        text-align: center;
+    }
+
+    button{
+        width: 100px;
+        height: 50px;
+        margin: auto;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        background-color: rgb(19, 205, 75);
+    }
+
+    .navbar{
+    text-align: center;
+    list-style-type: none;
+    background-color: #3fd810;
+    padding: 0;
+    margin: 0;
+    width: 100%;
+    overflow: hidden;
+    font-size: x-large;
+    }
+
+
